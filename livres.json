@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "titre": "Une si longue lettre",
+    "auteur": "Mariama Ba",
+    "prix": "7£",
+    "description": "Une si longue lettre relate les déboires conjugaux de Ramatoulaye,personnage principal qui en est, à la fois, la narratrice et l'héroïne. Mariée à Modou Fall, député bien connu dans son pays et à qui elle a donné 12 enfants, Ramatoulaye se voit, un jour, imposer brutalement une lycéenne comme co-épouse."
+  },
+  {
+    "id": 2,
+    "titre": "Les comptemplations",
+    "auteur": "Victor HUGO",
+    "prix": "7£",
+    "description": "Les Contemplations constituent une œuvre majeure dans l'œuvre de Victor Hugo. L'auteur exprime dans ce recueil le processus d'englobement du monde dans les mots. Le poète, considéré comme sujet lyrique, réfléchit en lui bonheur et misère, infini et mort, grandeur et cataclysme."
+  },
+  {
+    "id": 3,
+    "titre": "Vol de nuit",
+    "auteur": "Antoine de Saint-Exupéry",
+    "prix": "7£",
+    "description": "Vol de nuit illustre l'aventure tragique d'un pionnier de l'air. Saint-Exupéry témoigne de son admiration pour ce métier et de ses risques. Lui-même vient de sortir d'un péril qui donne au récit un ton authentique. Ce roman consacre une éthique de l'action et porte une réflexion sur l'idéal héroïque."
+  }
+]
